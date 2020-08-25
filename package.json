@@ -1,0 +1,19 @@
+{
+  "name": "csbuildweek1gameoflife",
+  "version": "1.0.0",
+  "description": "csbuildweek for conway's game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riley-Robinson/csbuildweek1gameoflife.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riley-Robinson/csbuildweek1gameoflife/issues"
+  },
+  "homepage": "https://github.com/Riley-Robinson/csbuildweek1gameoflife#readme"
+}
